@@ -1,0 +1,50 @@
+1. The capital of Alabama is Montgomery
+2. The capital of Alaska is Juneau
+3. The capital of Arizona is Phoenix
+4. The capital of Arkansas is Little Rock
+5. The capital of California is Sacramento
+6. The capital of Colorado is Denver
+7. The capital of Connecticut is Hartford
+8. The capital of Delaware is Dover
+9. The capital of Florida is Tallahassee
+10. The capital of Georgia is Atlanta
+11. The capital of Hawaii is Honolulu
+12. The capital of Idaho is Boise
+13. The capital of Illinois is Springfield
+14. The capital of Indiana is Indianapolis
+15. The capital of Iowa is Des Moines
+16. The capital of Kansas is Topeka
+17. The capital of Kentucky is Frankfort
+18. The capital of Louisiana is Baton Rouge
+19. The capital of Maine is Augusta
+20. The capital of Maryland is Annapolis
+21. The capital of Massachusetts is Boston
+22. The capital of Michigan is Lansing
+23. The capital of Minnesota is Saint Paul
+24. The capital of Mississippi is Jackson
+25. The capital of Missouri is Jefferson City
+26. The capital of Montana is Helena
+27. The capital of Nebraska is Lincoln
+28. The capital of Nevada is Carson City
+29. The capital of New Hampshire is Concord
+30. The capital of New Jersey is Trenton
+31. The capital of New Mexico is Santa Fe
+32. The capital of New York is Albany
+33. The capital of North Carolina is Raleigh
+34. The capital of North Dakota is Bismarck
+35. The capital of Ohio is Columbus
+36. The capital of Oklahoma is Oklahoma City
+37. The capital of Oregon is Salem
+38. The capital of Pennsylvania is Harrisburg
+39. The capital of Rhode Island is Providence
+40. The capital of South Carolina is Columbia
+41. The capital of South Dakota is Pierre
+42. The capital of Tennessee is Nashville
+43. The capital of Texas is Austin
+44. The capital of Utah is Salt Lake City
+45. The capital of Vermont is Montpelier
+46. The capital of Virginia is Richmond
+47. The capital of Washington is Olympia
+48. The capital of West Virginia is Charleston
+49. The capital of Wisconsin is Madison
+50. The capital of Wyoming is Cheyenne
